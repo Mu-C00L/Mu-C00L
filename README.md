@@ -1,7 +1,7 @@
 ## Hi there, I'm Mukul Mohmare - aka [Mu-C00L](https://github.com/Mu-C00L) 👋
 
 
-## I'm a Student, Developer, and Explorer!
+## I'm a Student, Developer, and an Explorer!
 
 - 🎓 I,m currently an undergraduate at <b>IIIT Allahabad.<b/>
 - 🔭 I’m currently working on many things🙇🏻‍
