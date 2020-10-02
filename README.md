@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on many things🙇🏻‍
 - 🌱 I'm currently learning everything 🤣
 - 👯 I'm looking to collaborate with other projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Keep Learning
 - ⚡ Fun fact: I can dream while I am awake😎
 
 ### Spotify Playing 🎧
