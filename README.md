@@ -10,7 +10,7 @@
 
 - 🎓 I'm currently an undergraduate at <b>IIIT Allahabad.<b/>
 - 🔭 I'm currently working on many things🙇🏻‍
-- 🌱 I'm currently learning everything 🤣
+- 🌱 I'm currently learning everything
 - 👯 I'm looking to collaborate with other projects
 - 🥅 Goals: Keep Learning
 - ⚡ Fun fact: I can dream while I am awake😎
