@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I can dream while I am awake😎
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mu-C00L Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zwf4bckbctqe8evdc170amxnz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zwf4bckbctqe8evdc170amxnz&redirect=true)
 
 ## Connect with me:
 
