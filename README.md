@@ -9,8 +9,7 @@
 ## I'm a Student, Rookie Developer, and an Explorer!
 
 - 🎓 I'm currently an undergraduate at <b>IIIT Allahabad.<b/>
-- 🔭 I'm currently working on many things🙇🏻‍
-- 🌱 I'm currently learning everything
+- 😎 My Personal portfolio [Link](https://mukul-mohmare.herokuapp.com/) 
 - 👯 I'm looking to collaborate with other projects
 - 🥅 Goals: Keep Learning
 - ⚡ Fun fact: I can dream while I am awake😎
