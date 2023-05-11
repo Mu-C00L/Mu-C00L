@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I can dream while I am awake😎
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zwf4bckbctqe8evdc170amxnz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zwf4bckbctqe8evdc170amxnz&redirect=true)
+[![Spotify](https://novatorem-sooty-theta.vercel.app/api/spotify)](https://open.spotify.com/user/ohtjqwwqkeol6vnrvu8b7z85p)
 
 ## Connect with me:
 
